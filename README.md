@@ -1,8 +1,8 @@
 # Solana-candy-machine
 
-Steps followed to create a Candy Machine in Solana :- 
-1.Cloned the metaplex repository from github.
-2.Set up the Solana CLI.
+-Steps followed to create a Candy Machine in Solana :- 
+-Cloned the metaplex repository from github.
+-Set up the Solana CLI.
 3.Install the dependencies.
 4.Set the Network to Devnet and generate a new KEYPair wallet from CLI.
 5.Airdrop Solana in the wallet and created assets with NFTs with (img+json) pairs.
