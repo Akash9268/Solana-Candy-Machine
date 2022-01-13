@@ -1,6 +1,6 @@
 # Solana-candy-machine
 
-Steps followed to create a Candy Machine in Solana :- 
+Steps followed to create a Candy Machine in Solana :-  
 1.Cloned the metaplex repository from github.  
 2.Set up the Solana CLI.  
 3.Install the dependencies.  
