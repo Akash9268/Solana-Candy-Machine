@@ -1,0 +1,43 @@
+{
+  "program": {
+    "uuid": "HpHmop",
+    "candyMachine": "HpHmopVKhe47XLwMHgi66eiDyqw1W4rSkFRH69mybSk6"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/qgZInQJv1Zh5JnRDcmtOVwUVYajKk6uBoDxQzOfuIdI",
+      "name": "My First NFT",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://arweave.net/D2dpVBfqXLltWTNCGfW48CnXWpmQP1ueaQLKJiHDIS8",
+      "name": "My First NFT",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://arweave.net/DiDmWMwyg-AR7FhPkUsjW3nW-Eh6fsmHcSr3aPThmXE",
+      "name": "My First NFT",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "3": {
+      "link": "https://arweave.net/l8TRhAJyAzWQkAqRMxs5m_pYtXWwUivc1hPUStkwy1o",
+      "name": "My 4th NFT",
+      "onChain": false
+    },
+    "4": {
+      "link": "https://arweave.net/m8y5MvisC8TyhRHo1sYGvrQdrYYzSK7-P8cc4Ml95jA",
+      "name": "My Fifth NFT",
+      "onChain": false
+    },
+    "5": {
+      "link": "https://arweave.net/Us___Ln8s_IwDkIss54HF7Hyi2-RXkostt-3HIdmM6Q",
+      "name": "My Sixth NFT",
+      "onChain": false
+    }
+  },
+  "env": "devnet",
+  "cacheName": "mycache"
+}
