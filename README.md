@@ -13,7 +13,7 @@ Steps followed to create a Candy Machine in Solana :-
 
 
 
-#####PUBLIC ADDRESS OF THE WALLET CREATED TO CONFIRM THE TRANSACTIONS########
+#####PUBLIC ADDRESS OF THE WALLET CREATED TO CONFIRM THE TRANSACTIONS#########
 1.GO to Solana Explorer and check for this address:- 
 Wallet 1 - GH8ZGCj6hpWqsYkL2YpSZD2fYzMGtsRzVArGqPe8YAbx
 Wallet 2 - BAKik6PfLMcVpWZxpEmVthCu32tKfheBFMgnGrFnYdwz
